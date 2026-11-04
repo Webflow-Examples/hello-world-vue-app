@@ -1,4 +1,4 @@
-# hello-world-vue-app-bindings
+# hello-world-vue-app
 
 A **Vue 3 + Vite** starter for [**Webflow Cloud**](https://webflow.com/cloud) with Cloudflare bindings (D1, R2, KV) wired in.
 
@@ -7,7 +7,7 @@ At deploy time, Webflow Cloud provisions the configured services and injects the
 > Looking for the plain vanilla variant (no bindings)?
 > See [`hello-world-vue-app`](https://github.com/Webflow-Examples/hello-world-vue-app).
 
-[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-vue-app-bindings)
+[![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-vue-app/tree/sentry)
 
 ## Requirements
 
