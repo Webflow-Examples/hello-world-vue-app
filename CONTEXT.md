@@ -1,4 +1,4 @@
-# CONTEXT — hello-world-vue-app-bindings
+# CONTEXT — hello-world-vue-app
 
 Orientation for contributors to this **Vue 3 + Vite + bindings** Hello World
 example for [Webflow Cloud](https://developers.webflow.com/webflow-cloud). Keep
