@@ -3,7 +3,7 @@
 A **Vue 3 + Vite** starter for [**Webflow Cloud**](https://webflow.com/cloud).
 
 > Looking for the bindings variant (D1, R2, KV)?
-> See [`hello-world-vue-app-bindings`](https://github.com/Webflow-Examples/hello-world-vue-app-bindings).
+> See [`hello-world-vue-app@v3-with-bindings`](https://github.com/Webflow-Examples/hello-world-vue-app/tree/v3-with-bindings).
 
 [![Deploy to Webflow](https://webflow.com/img/deploy-dark.svg)](https://webflow.com/dashboard/cloud/deploy?repo=https://github.com/Webflow-Examples/hello-world-vue-app)
 
